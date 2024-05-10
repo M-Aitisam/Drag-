@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+::selection {
+
+  color: rgb(190, 190, 74);
+}
+
